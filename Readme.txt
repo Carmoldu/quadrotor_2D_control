@@ -1,0 +1,1 @@
+My solution to the second assignemnt of the Courserea course "Aerial Robots", given by Vijay Kumar of Penn University. Note that I only developed the code for the controller.
